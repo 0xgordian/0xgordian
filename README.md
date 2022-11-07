@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **Blockhive, Techzie & Krubbs**
 
-- 👯 I’m looking to collaborate on **Cloud,web3 & web development projects**
+- 👯 I’m looking to collaborate on **Cloud, API/SDKS, web3 & web development projects**
 
-- 🤝 I’m looking for opportunities with **Developer relations, Technical Writing & Developer Evangelism**
+- 🤝 I’m looking for opportunities in **Developer relations, Technical Writing & Developer Evangelism**
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/heygordian](https://linktr.ee/heygordian)
 
