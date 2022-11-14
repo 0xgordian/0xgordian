@@ -7,15 +7,15 @@
 
 - 🔭 I’m currently working on **Blockhive, Techzie & Krubbs**
 
-- 👯 I’m looking to collaborate on **Cloud, API/SDKS, web3 & web development projects**
+- 👯 I’m looking to collaborate on **Cloud, DevOps, API/SDKS, Web3 & Web Development projects**
 
-- 🤝 I’m looking for opportunities in **Developer relations, Technical Writing & Developer Evangelism**
+- 🤝 I’m looking for opportunities in **DevOps, Cloud, Web3, Developer relations, Technical Writing & Developer Evangelism**
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/heygordian](https://linktr.ee/heygordian)
 
 - 📝 I regularly write articles on [https://medium.com/@gordianetim](https://medium.com/@gordianetim)
 
-- 💬 Ask me about **react,nodejs, docker, kubernetes, blockchain, web3, dev/rel**
+- 💬 Ask me about **react, nodejs, docker, kubernetes, DevOps,blockchain, web3, dev/rel**
 
 - 📫 How to reach me **etimgordian@gmail.com**
 
