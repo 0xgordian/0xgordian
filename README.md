@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gordian Etim</h1>
-<h3 align="center">A Developer Advocate & Software Engineer that loves to code, build and share my knowledge in different forms.</h3>
+<h3 align="center">A Developer advocate & Software engineer that loves to code, build and share my knowledge in different forms.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gordiancyber&label=Profile%20views&color=0e75b6&style=flat" alt="gordiancyber" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Blockhive, Techzie & Krubbs**
 
-- 👯 I’m looking to collaborate on **Cloud, DevOps, API/SDKS, Web3 & Web Development projects**
+- 👯 I’m looking to collaborate on **Cloud, DevOps, API/SDKS, Web3 and open source**
 
 - 🤝 I’m looking for opportunities in **DevOps, Cloud, Web3, Developer relations, Technical Writing & Developer Evangelism**
 
