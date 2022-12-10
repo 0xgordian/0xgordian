@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/heygordian" target="blank"><img src="https://img.shields.io/twitter/follow/heygordian?logo=twitter&style=for-the-badge" alt="heygordian" /></a> </p>
 
-- 🔭 I’m currently working on **Blockhive, Techzie & Krubbs**
-
 - 👯 I’m looking to collaborate on **Cloud, DevOps, APIs/SDKs, Web3 and Open Source**
 
 - 🤝 I’m looking for opportunities in **DevOps, Cloud, Web3, Developer relations, Technical Writing & Developer Evangelism**
@@ -21,7 +19,7 @@
 
 - 📄 Know about my experiences [https://linktr.ee/heygordian](https://linktr.ee/heygordian)
 
-- ⚡ Fun fact **I love video games, basketball,travelling, creating technical contents, community building .**
+- ⚡ Fun fact **I love to travel, play video games, basketball, travelling, creating technical contents & build technical communities.**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
