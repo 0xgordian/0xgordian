@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Blockhive, Techzie & Krubbs**
 
-- 👯 I’m looking to collaborate on **Cloud, DevOps, API/SDKS, Web3 and open source**
+- 👯 I’m looking to collaborate on **Cloud, DevOps, APIs/SDKs, Web3 and Open Source**
 
 - 🤝 I’m looking for opportunities in **DevOps, Cloud, Web3, Developer relations, Technical Writing & Developer Evangelism**
 
