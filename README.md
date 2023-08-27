@@ -45,7 +45,7 @@
 📫 Reach out to me:
    - Email: etimgordian@gmail.com 📧
 
-🚀 Dive deep into my journey:
+🚀 Socials and works:
    - [My Experiences](https://linktr.ee/heygordian) 💼
 
 
