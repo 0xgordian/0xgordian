@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=gordiancyber&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
 </p>
 
-<p align="center">
+[![An image of @gordiancyber's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gordiancyber)](https://holopin.io/@gordiancyber)<p align="center">
   <a href="https://twitter.com/heygordian" target="blank">
     <img src="https://img.shields.io/twitter/follow/heygordian?logo=twitter&style=for-the-badge" alt="Twitter Followers">
   </a>
