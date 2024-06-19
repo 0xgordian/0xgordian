@@ -1,5 +1,5 @@
 
-# Hello there! 👋
+# Hello! 👋
 
 I'm Gordian Etim - A Developer Relations Engineer (Advocate). 
 
@@ -8,7 +8,7 @@ I'm Gordian Etim - A Developer Relations Engineer (Advocate).
 - [Technical Blogs 📝](https://linktr.ee/heygordian)
 - [Let's chat anytime on X](https://x.com/0xgordian) 
 
-Reach out to me via email at heygordian@gmail.com 📧 
+Send a DM or reach out to me via email at heygordian@gmail.com 📧 
 
 
 
