@@ -1,7 +1,7 @@
 
 # Hello! 👋
-
-I'm Gordian Etim - A Developer Relations Engineer (Advocate). 
+m
+I'm Gordian Etim - A Developer Relations Engineer (Advocate) , Docs engineer & Community Manager
 
 
 - [Portfolio 📂](https://linktr.ee/heygordian)
