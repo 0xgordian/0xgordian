@@ -1,5 +1,5 @@
 
-# Hello!👋
+# Hello 👋
 I'm Gordian Etim - A Developer Relations Engineer (Advocate), Docs Engineer & Community Manager
 
 
