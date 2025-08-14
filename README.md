@@ -1,10 +1,9 @@
 
 # hello 👋
-I'm Gordian Etim - A developer relations engineer (advocate), docs engineer & community manager
+currently → creator • senior developer advocate • research fellow • filmmaking • documenting scaling a studio
 
-
-- [portfolio 📂](https://linktr.ee/heygordian)
-- [technical nblogs 📝](https://linktr.ee/heygordian)
+- [portfolio ](https://linktr.ee/heygordian)
+- [website ](https://linktr.ee/heygordian)
 - [let's chat anytime on X](https://x.com/0xgordian) 
 
 Send a dm or reach out to me via email at heygordian@gmail.com
