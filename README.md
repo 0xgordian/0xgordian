@@ -1,5 +1,8 @@
 
 # hello 👋
+I'm Gordian
+
+
 currently → creator • senior devrel engineer • filmmaking • helping devs / teams ship faster through simplified content • documenting scaling a studio
 
 - [portfolio ](https://linktr.ee/heygordian)
