@@ -1,6 +1,6 @@
 
 # hello 👋
-currently → creator • senior developer advocate • research fellow • filmmaking • documenting scaling a studio
+currently → creator • senior devrel engineer • filmmaking • helping devs / teams ship faster through simplified content • documenting scaling a studio
 
 - [portfolio ](https://linktr.ee/heygordian)
 - [website ](https://linktr.ee/heygordian)
