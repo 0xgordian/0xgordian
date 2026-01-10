@@ -3,7 +3,7 @@
 I'm Gordian
 
 
-currently → creator • senior devrel engineer • filmmaking • helping devs / teams ship faster through simplified content • documenting scaling a studio
+currently → creator • developer expericence & solutions engineer • filmmaking • helping devs / teams ship faster through simplified content • documenting scaling a studio
 
 - [website ](https://0xgordian.vercel.app)
 - [works ](https://linktr.ee/heygordian)
