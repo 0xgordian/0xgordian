@@ -2,8 +2,7 @@
 # hello 👋
 I'm Gordian
 
-
-currently → creator • developer experience & solutions engineer • filmmaking • helping devs / teams ship faster through simplified content • documenting scaling a studio
+currently → creator •  dx / full stack product engineer • filmmaking • helping devs / teams ship faster through simplified content 
 
 - [website ](https://0xgordian.vercel.app)
 - [works ](https://linktr.ee/heygordian)
