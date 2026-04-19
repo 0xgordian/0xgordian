@@ -2,7 +2,7 @@
 # hello 👋
 I'm Gordian
 
-currently → creator •  dx / full stack product engineer • filmmaking • helping devs / teams ship faster through simplified content 
+currently → creator •  dx / full stack product engineer • helping devs / teams ship faster;
 
 - [website ](https://0xgordian.vercel.app)
 - [works ](https://linktr.ee/heygordian)
