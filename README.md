@@ -2,7 +2,7 @@
 # hello 👋
 I'm Gordian
 
-currently → creator •  dx / full stack product engineer • helping devs / teams ship faster;
+senior developer experience / full stack product engineer.
 
 - [website ](https://0xgordian.vercel.app)
 - [works ](https://linktr.ee/heygordian)
