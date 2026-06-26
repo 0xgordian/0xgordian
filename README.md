@@ -2,7 +2,7 @@
 # hello 👋
 I'm Gordian
 
-Senior Developer Relations / Full Stack Product Engineer [AI Forward Deployment / Solutions Engineering]
+Full Stack Product Engineer [AI Forward Deployment / Developer Relations Engineering]
 
 - [works ](https://linktr.ee/heygordian)
 - [website ](https://0xgordian.vercel.app)
