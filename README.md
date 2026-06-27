@@ -2,7 +2,7 @@
 # hello 👋
 I'm Gordian
 
-Full Stack Product Engineer [AI Forward Deployment / Developer Experience Engineering]
+Full Stack Product Engineer [Developer Experience / AI Forward Deployment Engineering]
 
 - [works ](https://linktr.ee/heygordian)
 - [website ](https://0xgordian.vercel.app)
